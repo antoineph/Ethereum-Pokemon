@@ -1,0 +1,10 @@
+body {
+	background-color: #E0E0E0;
+	border: 1px solid #979797;
+}
+
+.main {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}

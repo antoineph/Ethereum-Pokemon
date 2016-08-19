@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700");
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    padding: 15px;
+    background-color: #e0e0e0;
+}
+
+.mainButton {
+    display: inline-block;
+    border-radius: 27px; width: 131px;
+    background-color: #7ed321;
+    font-size: 18px;
+    color: white;
+    padding: 34px 42px 44px 34px;
+    margin-right: 20px;
+    cursor: pointer;
+    horizontal-align: center;
+}
+
+.addressBox {
+    border: 1px dashed #888;
+    padding:10px;
+}
+
+.footer {
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.h1 {
+font-family: Montserrat-Bold;
+font-size: 20px;
+color: #292929;
+letter-spacing: 4.93px;
+padding: 10px;
+}
+
+.h1_reg {   
+    font-family: Montserrat-Regular;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #444444;
+    letter-spacing: 0px;
+}
+
+.h2 {
+    font-family: Montserrat-Bold;
+    font-size: 18px;
+    color: #292929;
+    letter-spacing: 4.93px;
+}
+
+.fa {
+    font-size: 36px;
+    color: #444444;
+}
+
+.fa:hover, .fa:focus {
+    font-size: 36px;
+    color: #8ED72B;
+}
+
+.poketype_style {
+font-family: Montserrat-Regular;
+text-transform: capitalize;
+font-size: 14px;
+color: #767373;
+letter-spacing: 0px;
+}
+
+.pokename {
+font-family: Montserrat-Regular;
+font-size: 20px;
+color: #444444;
+letter-spacing: 0px;
+}
+
+.pokename_inButton {
+font-family: Montserrat-Regular;
+text-transform: uppercase;
+font-size: 18px;
+color: #FFFFFF;
+letter-spacing: 2px;
+}
+
+.ethAdressStyle {
+font-family: Montserrat-Regular;
+font-size: 10px;
+color: #686868;
+letter-spacing: 0px;
+}
+
+#rowInlist {
+    horizontal-align: middle;
+    width='50%';
+}
+
+
